@@ -1,0 +1,12 @@
+{
+    "expenses": [
+        {
+            "id": 1,
+            "description": "buyed an house",
+            "amount": 12000000.0,
+            "category": "Expenses",
+            "date": "2024-12-31"
+        }
+    ],
+    "budgets": {}
+}
